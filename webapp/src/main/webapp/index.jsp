@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="alternate-email"><b>Enter Email</b></label>
+    <label for="alternate-email"><b>Enter Alternate Email</b></label>
     <input type="text" placeholder="Enter Email" name="alternate-email" id="email" required>
     <br>
 
